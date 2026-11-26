@@ -3,6 +3,7 @@ out/
 
 # Object files
 *.o
+*.out
 #*.obj
 
 # Converter cache
